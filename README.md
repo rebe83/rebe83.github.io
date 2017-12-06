@@ -1,2 +1,2 @@
-# rebe83.github.io
-Hello world
+# Theo Daggett
+Theo is currently a CS undergraduate student at UIUC.
